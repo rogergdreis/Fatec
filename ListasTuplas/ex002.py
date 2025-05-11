@@ -1,7 +1,7 @@
 # Faça um Programa que leia um vetor de 10 números reais e mostre-os na ordem inversa.
 
 vetor = []
-print("Digite 5 números inteiros:")
+print("Digite 10 números reais:")
 for i in range(10):
     while True:
         try:
