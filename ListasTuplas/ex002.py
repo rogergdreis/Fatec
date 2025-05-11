@@ -9,7 +9,7 @@ for i in range(10):
             vetor.append(num)
             break
         except ValueError:
-            print("Entrada inválida. Por favor, digite um número inteiro.")
+            print("Entrada inválida. Por favor, digite um número real.")
 
 print("Os números digitados foram:")
 for num in reversed(vetor):
